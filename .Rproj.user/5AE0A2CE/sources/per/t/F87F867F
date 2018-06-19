@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529313442143.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3686723723",
+    "id" : "F87F867F",
+    "lastKnownWriteTime" : 1529395782,
+    "last_content_update" : 1529395782774,
+    "path" : "C:/postdoc/psu_qunhuali/pkg_build/SegCCR/R/data_ChIP.R",
+    "project_path" : "R/data_ChIP.R",
+    "properties" : {
+        "cursorPosition" : "23,44",
+        "scrollLine" : "21",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

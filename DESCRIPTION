@@ -1,0 +1,16 @@
+Package: segCCR
+Title: Fit the segmented correspondence curve regression
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Feipeng", "Zhang", email = "zhangfp108@gmail.com", role = "cre"),
+    person("Qunhua", "Li", email = "qunhua.li@psu.edu", role = "aut"))
+Maintainer: Feipeng Zhang <zhangfp108@gmail.com>
+Description: An implementation of fitting the segmented correspondence curve regression. 
+    It can fit the segmented correspondence curve regression model in the paper:
+    Zhang, F. and Li, Q.(2018).Segmented correspondence curve regression model for 
+    quantifying reproducibility of high-throughput experiments.
+Depends: R (>= 3.5.0), boot, MASS
+License: GPL (>= 3.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

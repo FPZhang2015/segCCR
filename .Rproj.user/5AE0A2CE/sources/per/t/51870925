@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529201622228.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1606432773",
+    "id" : "51870925",
+    "lastKnownWriteTime" : 1529395882,
+    "last_content_update" : 1529395882584,
+    "path" : "C:/postdoc/psu_qunhuali/pkg_build/SegCCR/R/segccrFit.R",
+    "project_path" : "R/segccrFit.R",
+    "properties" : {
+        "cursorPosition" : "36,36",
+        "scrollLine" : "28"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

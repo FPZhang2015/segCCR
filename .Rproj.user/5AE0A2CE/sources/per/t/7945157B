@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529378332278.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "71|33|88|2|\n92|37|159|2|\n198|33|218|2|\n220|58|272|2|\n",
+    "hash" : "1712312181",
+    "id" : "7945157B",
+    "lastKnownWriteTime" : 1529397045,
+    "last_content_update" : 1529397045464,
+    "path" : "C:/postdoc/psu_qunhuali/pkg_build/SegCCR/R/segccrTest.R",
+    "project_path" : "R/segccrTest.R",
+    "properties" : {
+        "cursorPosition" : "14,3",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

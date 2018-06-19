@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529199765852.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3782903747",
+    "id" : "D7448AAB",
+    "lastKnownWriteTime" : 1529207520,
+    "last_content_update" : 1529207520025,
+    "path" : "C:/postdoc/psu_qunhuali/pkg_build/SegCCR/R/data_salmon.R",
+    "project_path" : "R/data_salmon.R",
+    "properties" : {
+        "cursorPosition" : "50,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
