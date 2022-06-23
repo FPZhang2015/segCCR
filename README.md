@@ -26,7 +26,7 @@ fit = segCCR(data = ChIPseq,
            NB = 5)      
 
 ## test the existence of a change point
-fit = segCCR_test(ChIPseq,
+fit.test = segCCR_test(ChIPseq,
            tm=tm,
            NB = 10)
 ```
