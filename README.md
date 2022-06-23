@@ -14,7 +14,21 @@ library(segCCR)
 ## Example
 
 ```
-x = expr
-plot(x[,1],x[,2],xlim=c(-8,8),ylim=c(-8,8),cex = .4);
-idr.out = IDR.3component(x = x)
+data(ChIPseq)
+## estimate
+m = 100
+tm <- seq(0.01, 0.999, length.out = m)
+nx = nlevels(factor(ChIPseq$x))
+par.ini = c(0.5, 2, 1, rep(0.1, 2*(nx-1)))  # initial value
+nx = nlevels(factor(ChIPseq$x))
+par.ini = c(0.5, 2, 1, rep(0.1, 2*(nx-1)))  # initial value
+fit = segCCR(data = ChIPseq,
+           par.ini = par.ini,
+           tm=tm,
+           NB = 5)           
 ```
+
+
+## Citation
+
+Please cite the following paper: A semi-parametric statistical model for integrating gene expression profiles across different platforms
